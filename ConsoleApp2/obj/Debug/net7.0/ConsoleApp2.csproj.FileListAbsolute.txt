@@ -1,0 +1,15 @@
+E:\Projects\Projects\Chips\tests\ConsoleApp2\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.exe
+E:\Projects\Projects\Chips\tests\ConsoleApp2\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.deps.json
+E:\Projects\Projects\Chips\tests\ConsoleApp2\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.runtimeconfig.json
+E:\Projects\Projects\Chips\tests\ConsoleApp2\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.dll
+E:\Projects\Projects\Chips\tests\ConsoleApp2\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.pdb
+E:\Projects\Projects\Chips\tests\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.csproj.AssemblyReference.cache
+E:\Projects\Projects\Chips\tests\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Projects\Chips\tests\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.AssemblyInfoInputs.cache
+E:\Projects\Projects\Chips\tests\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.AssemblyInfo.cs
+E:\Projects\Projects\Chips\tests\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\Projects\Projects\Chips\tests\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.dll
+E:\Projects\Projects\Chips\tests\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\refint\ConsoleApp2.dll
+E:\Projects\Projects\Chips\tests\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.pdb
+E:\Projects\Projects\Chips\tests\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.genruntimeconfig.cache
+E:\Projects\Projects\Chips\tests\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ref\ConsoleApp2.dll
